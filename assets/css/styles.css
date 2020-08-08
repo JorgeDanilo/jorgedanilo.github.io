@@ -665,6 +665,12 @@ a.dotted-link:hover {
   }
   .project-image {
     margin-bottom: 15px;
+  
+  }
+
+  .image_job {
+    width: 150px;
+    height: 250px;
   }
 }
 
